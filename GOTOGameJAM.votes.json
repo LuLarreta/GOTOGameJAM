@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "654ac21510375d198300f4d5"
+  },
+  "judge": "654ab04601615aced7c99528",
+  "game": "6548cb195128e88e99abd899",
+  "gameplay": 10,
+  "art": 8,
+  "sound": 5,
+  "themeAffinity": 9
+},
+{
+  "_id": {
+    "$oid": "654ac23010375d198300f4d6"
+  },
+  "judge": "654ab04601615aced7c99528",
+  "game": "6548cb195128e88e99abd89a",
+  "gameplay": 8,
+  "art": 7,
+  "sound": 9,
+  "themeAffinity": 3
+},
+{
+  "_id": {
+    "$oid": "654ac24210375d198300f4d7"
+  },
+  "judge": "654ab04601615aced7c99529",
+  "game": "6548cb195128e88e99abd89a",
+  "gameplay": 8,
+  "art": 7,
+  "sound": 9,
+  "themeAffinity": 6
+},
+{
+  "_id": {
+    "$oid": "654ae6622ab74d9a355b57c0"
+  },
+  "judge": "654ab04601615aced7c99528",
+  "game": "6548cb195128e88e99abd89b",
+  "gameplay": 1,
+  "art": 8,
+  "sound": 9,
+  "themeAffinity": 9
+}]

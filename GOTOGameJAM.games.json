@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd899"
+  },
+  "name": "Aventura en el Espacio",
+  "genre": "Aventura",
+  "members": [
+    "Carlos",
+    "Ana",
+    "Luis"
+  ],
+  "edition": 2022
+},
+{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd89a"
+  },
+  "name": "Carrera Extrema",
+  "genre": "Carreras",
+  "members": [
+    "María",
+    "David",
+    "Elena"
+  ],
+  "edition": 2022
+},
+{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd89b"
+  },
+  "name": "Misterio en la Mansión",
+  "genre": "Puzzle",
+  "members": [
+    "Sofía",
+    "Juan",
+    "Lucía"
+  ],
+  "edition": 2021
+},
+{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd89c"
+  },
+  "name": "Conquista del Mundo",
+  "genre": "Estrategia",
+  "members": [
+    "Diego",
+    "Laura",
+    "Pablo"
+  ],
+  "edition": 2021
+},
+{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd89d"
+  },
+  "name": "Combate en la Selva",
+  "genre": "Acción",
+  "members": [
+    "Ricardo",
+    "Isabel",
+    "Andrés"
+  ],
+  "edition": 2020
+},
+{
+  "_id": {
+    "$oid": "6548cb195128e88e99abd89e"
+  },
+  "name": "Simulador de Granja",
+  "genre": "Simulación",
+  "members": [
+    "Fernando",
+    "Carmen",
+    "Pedro"
+  ],
+  "edition": 2024
+}]

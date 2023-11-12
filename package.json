@@ -1,0 +1,20 @@
+{
+  "name": "sistema-votacion-goto-gamejam",
+  "version": "1.0.0",
+  "description": "GOTO Game JAM es una competencia anual donde equipos de desarrolladores se reúnen para crear un videojuego en un plazo de 48 horas. Como parte del proceso, un grupo de jueces evalúa y califica los videojuegos en varias categorías.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cls && nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
